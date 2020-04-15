@@ -1,0 +1,13 @@
+D:\Users\Acer\Desktop\Senac 2020\Telas\bin\Debug\netcoreapp3.1\Telas.exe
+D:\Users\Acer\Desktop\Senac 2020\Telas\bin\Debug\netcoreapp3.1\Telas.deps.json
+D:\Users\Acer\Desktop\Senac 2020\Telas\bin\Debug\netcoreapp3.1\Telas.runtimeconfig.json
+D:\Users\Acer\Desktop\Senac 2020\Telas\bin\Debug\netcoreapp3.1\Telas.runtimeconfig.dev.json
+D:\Users\Acer\Desktop\Senac 2020\Telas\bin\Debug\netcoreapp3.1\Telas.dll
+D:\Users\Acer\Desktop\Senac 2020\Telas\bin\Debug\netcoreapp3.1\Telas.pdb
+D:\Users\Acer\Desktop\Senac 2020\Telas\obj\Debug\netcoreapp3.1\Telas.csprojAssemblyReference.cache
+D:\Users\Acer\Desktop\Senac 2020\Telas\obj\Debug\netcoreapp3.1\Telas.csproj.CoreCompileInputs.cache
+D:\Users\Acer\Desktop\Senac 2020\Telas\obj\Debug\netcoreapp3.1\Telas.AssemblyInfoInputs.cache
+D:\Users\Acer\Desktop\Senac 2020\Telas\obj\Debug\netcoreapp3.1\Telas.AssemblyInfo.cs
+D:\Users\Acer\Desktop\Senac 2020\Telas\obj\Debug\netcoreapp3.1\Telas.dll
+D:\Users\Acer\Desktop\Senac 2020\Telas\obj\Debug\netcoreapp3.1\Telas.pdb
+D:\Users\Acer\Desktop\Senac 2020\Telas\obj\Debug\netcoreapp3.1\Telas.genruntimeconfig.cache
